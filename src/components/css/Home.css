@@ -1,0 +1,19 @@
+.home{
+    background-image: url("https://media.hitekno.com/thumbs/2019/01/16/17822-logo-infinix/730x480-img-17822-logo-infinix.jpg");
+}
+.home .boxes{
+    max-width: 500px;
+    min-width: 290px;
+    width: auto;
+    height: 500px;
+}
+
+.title{
+    font-size: 35pt;
+    margin-left: 10%;
+    padding-top: 200px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: white;
+    text-shadow: 2px 2px #414141;
+}

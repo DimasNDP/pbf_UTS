@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "1",
+        "title": "SERI HOT TERBARU",
+        "src": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/mobilephones/Infinix_HOT_10/Infinix_HOT_10_L_1.jpg",
+        "content": "INFINIX HOT 10 hadir dengan layar TFT HD+ 6,78 inci, ditenagai oleh prosesor gaming MediaTek Helio G70 dengan RAM 4GB dan varian memori 64GB/128GB. Baterai 5200mAh, quad kamera belakang lensa utama 16MP, kamera selfie 8MP",
+        "price": 1749000,
+        "count": 1
+    },
+    {
+        "_id": "2",
+        "title": "SERI NOTE TERBARU",
+        "src": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/mobilephones/Infinix_Note_8_/Infinix_Note_8__L_1.jpg",
+        "content": "INFINIX NOTE 8 hadir dengan layar sentuh lengkung 6,95 inci dengan dual hole-punch cutout yang memiliki kamera selfie 16MP + 2MP, kamera quad 64MP di bagian belakang, didukung oleh prosesor octa-core 2GHz, baterai 5.200 mAh dan 6GB RAM",
+        "price": 2110000,
+        "count": 1
+    },
+    {
+        "_id": "3",
+        "title": "SERI ZERO TERBARU",
+        "src": "http://p.ipricegroup.com/uploaded_6cb4a9715f2f664bb26285046665ded7.jpg",
+        "content": "INFINIX ZERO 8 perangkat Infinix pertama dengan chipset MediaTek Helio G90T dipadukan RAM 8GB. Zero 8 dibekali dual kamera selfie 48MP + 8MP dan quad kamera belakang sensor utama 64MP. Baterai 4500 mAh dengan Super Charge 33W",
+        "price": 2999000,
+        "count": 1
+    }
+]
